@@ -185,17 +185,17 @@ The following screenshots demonstrate the encryption process, successful decrypt
 
 ### Encryption
 
-![Encryption](screenshots/Successfull_Encryption.png)
+![Encryption](Screenshots/Successfull_Encryption.png)
 ---
 
 ### Successful Decryption
 
-![Decryption](screenshots/Sucessfully_Decryption.png)
+![Decryption](Screenshots/Sucessfully_Decryption.png)
 ---
 
 ### Invalid Decryption Key
 
-![Invalid Key](screenshots/Decryption_Fail.png)
+![Invalid Key](Screenshots/Decryption_Fail.png)
 
 ---
 
