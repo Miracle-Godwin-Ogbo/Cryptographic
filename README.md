@@ -1,4 +1,4 @@
-# Caesar Cipher Encryption & Decryption Tool
+# 🔐 Caesar Cipher Encryption & Decryption Tool
 
 A Python-based cryptographic tool developed as **Week 2** of the **DecodeLabs Cybersecurity Internship**. This project demonstrates the implementation of the **Caesar Cipher**, a classical symmetric encryption algorithm that encrypts and decrypts text using a shared secret key.
 
@@ -6,7 +6,7 @@ This project strengthened my understanding of Python programming, cryptography f
 
 ---
 
-## Features
+## ✨ Features
 
 - Encrypts plaintext using the Caesar Cipher algorithm
 - Decrypts ciphertext using the same key as encryption key
@@ -18,7 +18,7 @@ This project strengthened my understanding of Python programming, cryptography f
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
 - Visual Studio Code
@@ -27,7 +27,7 @@ This project strengthened my understanding of Python programming, cryptography f
 
 ---
 
-## How It Works
+## ⚙️ How It Works
 
 ### Encryption
 
@@ -49,7 +49,7 @@ Wrong key! Decryption failed.
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 ### 1. Clone the repository
 
@@ -77,7 +77,7 @@ python3 Cryptography.py
 
 ---
 
-## Example
+## 🧪 Example
 
 ### User Input
 
@@ -127,7 +127,7 @@ Wrong key! Decryption failed.
 
 ---
 
-## Concepts Learned
+## 📚 Concepts Learned
 
 - Classical Cryptography
 - Caesar Cipher
@@ -142,7 +142,7 @@ Wrong key! Decryption failed.
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
 - Graphical User Interface (GUI)
 - File encryption and decryption
@@ -153,38 +153,36 @@ Wrong key! Decryption failed.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-The screenshots demonstrating:
-
-- Successful encryption
-- Successful decryption
-- Invalid decryption key
+The following screenshots demonstrate the encryption process, successful decryption using the correct key, and the program's response when an incorrect decryption key is entered.
 
 
 ### Encryption
 
-![Encryption](Successfull_Encryption.png)
-
+![Encryption](screenshots/Successfull_Encryption.png)
 ---
 
 ### Successful Decryption
 
-![Decryption](Sucessfully_Decryption.png)
-
+![Decryption](screenshots/Sucessfully_Decryption.png)
 ---
 
 ### Invalid Decryption Key
 
-![Invalid Key](Decryption_Fail.png)
+![Invalid Key](screenshots/Decryption_Fail.png)
 
 ---
 
-## Author
+
+## 👨‍💻 Author
 
 **Miracle Godwin Ogbo**
 
-Aspiring Penetration Tester 
+Aspiring Penetration Tester | Cybersecurity Enthusiast | Python Developer
+
+**Developed during the DecodeLabs Internship Program.**
+
 
 **GitHub**
 https://github.com/Miracle-Godwin-Ogbo
@@ -194,7 +192,7 @@ https://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241
 
 ---
 
-## Disclaimer
+## 📄 Disclaimer
 
 This project was developed as part of my learning journey during the DecodeLabs Cybersecurity Internship. It demonstrates the basic principles of the Caesar Cipher and helped me improve my understanding of Python programming and introductory cryptography.
 
